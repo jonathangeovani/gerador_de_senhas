@@ -1,4 +1,7 @@
 import random
+import os
+
+os.system('cls')
 
 letrasmin = 'abcdefghijklmnopqrstuvwxyz'
 letrasmai = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
